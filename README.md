@@ -21,6 +21,8 @@ IP: 149.28.159.195
 
 ด้วย user anonymous user
 
+How to :
+
 1. ftp (target ip)
    
 2. user : anonymous
@@ -37,9 +39,10 @@ IP: 149.28.159.195
 
 8.cat /home/kali/flag.txt 
 
-Ans : The flag is recon{e97VgZXRclQeUIA0KG95336gZp4@o}
 
 ![image](https://github.com/thanawut2903/FTP/assets/159118913/d4773f59-8f72-48af-9e81-86b2dbfd0aef)
+
+Ans : The flag is recon{e97VgZXRclQeUIA0KG95336gZp4@o}
 
 
 
